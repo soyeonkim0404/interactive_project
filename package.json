@@ -1,5 +1,24 @@
 {
+  "name": "interactive_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyeonkim0404/interactive_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyeonkim0404/interactive_project/issues"
+  },
+  "homepage": "https://github.com/soyeonkim0404/interactive_project#readme",
+  "description": "",
   "dependencies": {
+    "lax.js": "^2.0.3",
     "prettier": "^2.7.1"
   }
 }
